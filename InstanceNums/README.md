@@ -31,5 +31,5 @@ command = 'python3 /usr/local/yhidetoshi/get_instance_num.py'
 # 結果
 - 起動中のインスタンス数が1, 停止中のインスタンス数が0というグラフを作成することができた。 
 
-![Alt Text](https://github.com/yhidetoshi/Pictures/raw/master/Blog/mackerel-custommetrics-instance.png)
+![Alt Text](https://github.com/yhidetoshi/Pictures/blob/master/Blog/mackerel-custommetrics-instance.png)
 
